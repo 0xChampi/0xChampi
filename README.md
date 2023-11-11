@@ -5,7 +5,7 @@ Hi there, I'm <a href="https://0xchampi.dev" target="_blank" rel="noreferrer">Ch
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻 and Designer 🎨!
+I'm a Full-Stack & Blockchain Developer 💻 & Designer 🎨!
 </h2> 
 
 As a dynamic Full-Stack Developer with a unique blend of over 20 years of experience in software engineering, an academic background in Physics, and a profound talent in UI/UX design, I present a rare combination of skills that bridge the gap between technical precision and aesthetic brilliance. This distinctive mix positions me as an exceptional asset in the tech industry, capable of navigating both Web2 and Web3 environments with equal proficiency.
