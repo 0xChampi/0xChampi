@@ -24,12 +24,18 @@ In summary, my profile is that of a versatile developer and designer, one who un
 
 ## 🔭 I'm currently working on
 
+- Trading Platform
+- Exchange
+- Chat App
+- Wallet App
+
+  
 ## 🌱 I'm currently learning
 
 - 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+- Supabase 
+- Mongo
+- Typescript
 
 ## 💼 Technical Skills
 
