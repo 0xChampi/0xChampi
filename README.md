@@ -19,7 +19,7 @@ Having contributed to both Web2 and Web3 projects, I am skilled in blockchain in
 In summary, my profile is that of a versatile developer and designer, one who understands the intricacies of software engineering, appreciates the nuances of UI/UX design, and applies a scientific approach to problem-solving. This unique combination makes me particularly effective in creating responsive, cross-platform solutions that are not only functionally excellent but also aesthetically compelling and user-centric. My approach is to deliver comprehensive, end-to-end development and design services that meet the highest standards of quality and innovation.
 ### 🤝 Connect with me:
 
-
+<a href="https://0xchampi.dev" target="_blank" rel="noreferrer">0xChampi.dev</a>
 </br>
 
 ## 🔭 I'm currently working on
