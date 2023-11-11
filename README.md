@@ -51,14 +51,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📝 Latest Blog Posts
-
-
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0xchampi)](https://github.com/0xchampi)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xchampi&layout=compact)](https://github.com/0xchampi)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=0xchampi.0xchampi)](https://0xchampi.dev/)
